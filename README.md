@@ -32,12 +32,12 @@ lm xong thì add rồi commit rồi ``git push origin main``
 
 
 nếu đọc lần thứ N rồi nma vẫn chưa nhớ lệnh thì đây:
-``git init``  
-``git status``
-``git add .`` or add + 'filename.html/js'
-``git commit -m 'mô tả rõ cho mn là mày thay đổi cái gì'`` nhớ ghi mô tả trc khi push lên git 
-``git pull origin main``
-``git push -u origin main`` or ``git push origin main``
-``git remote add origin https://github.com/Khang1z2t/laitsport.git``
+- ``git init``  
+- ``git status``
+- ``git add .`` or add + 'filename.html/js'
+- ``git commit -m 'mô tả rõ cho mn là mày thay đổi cái gì'`` nhớ ghi mô tả trc khi push lên git 
+- ``git pull origin main``
+- ``git push -u origin main`` or ``git push origin main``
+- ``git remote add origin https://github.com/Khang1z2t/laitsport.git``
 
 that's all nma mới chỉ là cơ bản thôi 
