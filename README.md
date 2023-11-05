@@ -18,7 +18,7 @@ B2: Thiết lập biến môi trường cho git trên win (kiểm tra tại bth 
 -- cách dùng github để lấy file về or push file lên github 
 Đương nhiên phải đăng nhập github ròiiiiiiiiiiii
 mở Terminal lên rồi dùng lệnh ``git init`` để khởi tạo repo 
-sau đó dùng ``git add.`` để add tất cả file lên repo 
+sau đó dùng ``git add .`` để add tất cả file lên repo 
 tiếp đến là dùng ``git commit -m 'mô tả rõ cho mn là mày thay đổi cái gì'``
 trên đó là phần cơ bản nhưng để đẩy file lên github phải dùng ``git remote add origin https://github.com/Khang1z2t/laitsport.git`` để liên kết vs github này 
 dùng lệnh ``git push -u origin main`` để đẩy file lên github này 
@@ -34,7 +34,7 @@ lm xong thì add rồi commit rồi ``git push origin main``
 nếu đọc lần thứ N rồi nma vẫn chưa nhớ lệnh thì đây:
 ``git init``  
 ``git status``
-``git add.`` or add + 'filename.html/js'
+``git add .`` or add + 'filename.html/js'
 ``git commit -m 'mô tả rõ cho mn là mày thay đổi cái gì'`` nhớ ghi mô tả trc khi push lên git 
 ``git pull origin main``
 ``git push -u origin main`` or ``git push origin main``
