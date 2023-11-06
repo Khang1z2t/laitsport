@@ -42,3 +42,6 @@ nếu đọc lần thứ N rồi nma vẫn chưa nhớ lệnh thì đây:
 
 that's all nma mới chỉ là cơ bản thôi 
 # vô file xem cho dễ
+
+xem vid cho đễ hiểu 
+https://www.youtube.com/watch?v=1JuYQgpbrW0
